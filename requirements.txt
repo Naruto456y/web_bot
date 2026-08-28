@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+psutil
+pycaw
+comtypes
+mouse
+keyboard
+AppOpener
+youtube-search-python
+Pillow

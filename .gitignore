@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+*.spec
+*.exe
+releases/
+
+# Загрузки и скриншоты с компьютера
+uploads/
+.env
+.venv/
+.claude/
+CLAUDE.md
